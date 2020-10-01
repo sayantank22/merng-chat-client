@@ -19,7 +19,8 @@
     "nodemon": "^2.0.4"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "server": "node server.js"
   },
   "author": "Sayantan Karmakar",
   "license": "ISC"
